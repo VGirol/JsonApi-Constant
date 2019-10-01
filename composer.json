@@ -1,0 +1,42 @@
+{
+    "name": "vgirol/jsonapi-constant",
+    "type": "library",
+    "description": "This package provides a set of constants that represents members names of documents using the JSON:API specification.",
+    "keywords": [
+        "vgirol",
+        "jsonapi-constant",
+        "JSON API"
+    ],
+    "homepage": "http://github.com/VGirol/JsonApi-Constant",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Vincent Girol",
+            "email": "vincent@girol.fr",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": "^7.2"
+    },
+    "minimum-stability": "stable",
+    "autoload": {
+        "psr-4": {
+            "VGirol\\JsonApiConstant\\": "src/"
+        }
+    },
+    "scripts": {
+        "setup": "bash install/setup.sh",
+        "post-update-cmd": [
+            "@setup"
+        ]
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "1.0-dev"
+        }
+    },
+    "config": {
+        "sort-packages": true
+    }
+}
