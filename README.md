@@ -67,11 +67,11 @@ If you discover any security related issues, please email [vincent@girol.fr](mai
 
 The MIT License (MIT). Please see [License File](LICENSE.md) for more information.
 
-[ico-version]: https://img.shields.io/packagist/v/VGirol/JsonApi-Assert.svg?style=flat-square
+[ico-version]: https://img.shields.io/packagist/v/VGirol/JsonApi-Constant.svg?style=flat-square
 [ico-license]: https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square
-[ico-downloads]: https://img.shields.io/packagist/dt/VGirol/JsonApi-Assert.svg?style=flat-square
+[ico-downloads]: https://img.shields.io/packagist/dt/VGirol/JsonApi-Constant.svg?style=flat-square
 
-[link-packagist]: https://packagist.org/packages/VGirol/JsonApi-Assert
-[link-downloads]: https://packagist.org/packages/VGirol/JsonApi-Assert
+[link-packagist]: https://packagist.org/packages/VGirol/JsonApi-Constant
+[link-downloads]: https://packagist.org/packages/VGirol/JsonApi-Constant
 [link-author]: https://github.com/VGirol
 [link-contributors]: ../../contributors
