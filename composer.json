@@ -19,7 +19,8 @@
     "require": {
         "php": "^7.2"
     },
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
+    "prefer-stable": true,
     "autoload": {
         "psr-4": {
             "VGirol\\JsonApiConstant\\": "src/"

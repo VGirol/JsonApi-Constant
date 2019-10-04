@@ -7,3 +7,7 @@ Updates should follow the [Keep a CHANGELOG](http://keepachangelog.com/) princip
 ## 1.0.0 - 2019-03-31
 
 - Initial release
+
+## 1.0.1 - 2019-10-04
+
+- Changed minimum stability for composer
