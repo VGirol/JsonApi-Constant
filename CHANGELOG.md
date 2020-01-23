@@ -11,3 +11,7 @@ Updates should follow the [Keep a CHANGELOG](http://keepachangelog.com/) princip
 ## 1.0.1 - 2019-10-04
 
 - Changed minimum stability for composer
+
+## 1.0.2 - 2020-01-24
+
+- Changed minimum PHP version
