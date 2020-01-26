@@ -15,3 +15,7 @@ Updates should follow the [Keep a CHANGELOG](http://keepachangelog.com/) princip
 ## 1.0.2 - 2020-01-24
 
 - Changed minimum PHP version
+
+## 1.1.0 - 2020-01-26
+
+- Added Versions
