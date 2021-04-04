@@ -19,3 +19,7 @@ Updates should follow the [Keep a CHANGELOG](http://keepachangelog.com/) princip
 ## 1.1.0 - 2020-01-26
 
 - Added Versions
+
+## 1.1.1 - 2021-04-04
+
+- Added support for PHP 8
